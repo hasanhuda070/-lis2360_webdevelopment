@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document created by Showad Huda, Spring 2019 */
+
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 14px;
+    line-height: 1.8em;
+    color: #FFFCFD;
+    background-color: #2E3532;
+    padding: 0 40px;
+}
+
+p, li, td {
+    letter-spacing: 0.05em;
+    color: #A1B7CE;
+}
+h1 {
+    font-size: 75px;
+    padding: 4px 0;
+    font-variant: small-caps;
+	line-height: .5em;
+}
+h2 {
+    font-size: 30px;
+    letter-spacing: 0.3em;
+	padding: 6px;
+	font-variant: small-caps;
+	background-color: #8F9491;
+	font-style: italic;
+}
+h3 {	
+    font-size: 25px;
+	letter-spacing: 0.3em;
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #8F9491;
+	padding: 4px 0;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+a:link {
+    font-weight: bold;
+	color: #15685E;
+	text-decoration: none;
+}
+a:visited {
+    font-weight: bold;
+    color: #386838;
+    text-decoration: none;
+}
+a:hover {
+    color: #5FAF5F;
+}
+
+ul li {
+    margin-left: 12px;
+}
+ol {
+    margin-left: 12px;
+}
+
+table {
+    border: outset #DBBF7A 5px;
+}
+tr {
+    padding: 6px;
+    border: solid #DBBF7A 1px;
+}
+th {
+    font-weight: bold;
+    background-color: #DBBF7A;
+    text-align: center;
+    padding: 6px;
+    border: solid #DBBF7A 1px;
+}
+
+hr {
+    border: solid #DBBF7A 1px;
+}
+img {
+    border: solid #DBBF7A 1px;
+}
+iframe {
+    border: solid #DBBF7A 1px;
+}
