@@ -84,3 +84,19 @@ img {
 iframe {
     border: solid #DBBF7A 1px;
 }
+
+#sidebar { 
+	width: 278px; 
+	float: right;
+	margin-top: 100px;
+	margin-right: 160px;
+	background: #8F9491;
+	border: 5px solid #DBBF7A;
+	border-radius: 20px;
+	box-shadow: 7px 7px 3px #386838;
+}
+#sidebar p{
+	padding: 0;
+	float: right;
+	color: #eee;
+}
